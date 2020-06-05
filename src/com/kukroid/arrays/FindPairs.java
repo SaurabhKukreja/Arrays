@@ -27,5 +27,9 @@ public class FindPairs {
                 map.put(val, i);
             }
         }
+
+        /*Time Complexity : O(n) - As We are using HashMap - time complexity is therefore O(n)
+        Space Complexity : O(n) - Because of new hashmap
+        * */
     }
 }
